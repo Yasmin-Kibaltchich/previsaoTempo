@@ -1,2 +1,2 @@
-# ApiTempo
-Api para verificar o tempo em algumas localidades 
+# previsaoTempo
+Busca temperatura e umidade do tempo em algumas localidades, contando também com a imagem mostrando a condição climática naquele determidado local.
