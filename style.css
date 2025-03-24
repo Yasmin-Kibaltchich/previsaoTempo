@@ -9,10 +9,10 @@
 
 
 body {
-    background-image: url("https://source.unsplash.com/1600x900/?landscape");
+    background-image: url("assets/fundo.jpg");
     background-size: cover;
     height: 100vh;  /*altura */
-    width: 100vh;  /* Largura */
+    width: 225vh;  /* Largura */
     display: flex;
     align-items: center;
     justify-content: center;
