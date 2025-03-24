@@ -15,5 +15,5 @@ async function buscarCidade() {
   document.getElementById("umidade").innerText = `Umidade: ${dados.main.humidity}%`;
 
 
-  document.body.style.backgroundImage = `https://i.postimg.cc/hG2YzKSY/fundo.jpg${Math.random()})`;
+  document.body.style.backgroundImage = `url(https://i.postimg.cc/hG2YzKSY/fundo.jpg${Math.random()})`;
 }
